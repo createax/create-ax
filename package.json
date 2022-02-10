@@ -1,0 +1,23 @@
+{
+  "name": "create-ax",
+  "version": "0.0.1",
+  "description": "Create an is an command line CLI for React and NodeJS projects.",
+  "main": "app.js",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/createax/create-ax.git"
+  },
+  "keywords": [
+    "create-ax"
+  ],
+  "author": "CreateAX LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/createax/create-ax/issues"
+  },
+  "homepage": "https://github.com/createax/create-ax#readme"
+}
